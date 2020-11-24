@@ -41,7 +41,7 @@ _Exemplo de relação:_
 
 `| 🔴 A | 1 ------- < relação > ------- 1 | 🔵 B 🟥 |`  
 
-B cria uma "cópia" da chave primaria de A, isso é uma chave estrangeira, B pode relacionar seu registros a registros de A. Poderia ser o contrário. <br><br>
+`B` cria uma "cópia" da chave primaria de `A`, isso é uma chave estrangeira, `B` pode relacionar seu registros a registros de `A`. Poderia ser o contrário. <br><br>
 
 **Relação UM para MUITOS**  
 
@@ -51,7 +51,7 @@ B cria uma "cópia" da chave primaria de A, isso é uma chave estrangeira, B pod
 
 **Relação MUITOS para MUITOS**
 
-<img src="../imagens/relacionamento-n-para-n.gif">
+<img src="../imagens/relacionamento-n-para-n.gif" width="575" height="250">
 
 Esta imagem do canal [curso em video](https://www.youtube.com/watch?v=paZNDJAPT4E&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&index=17) é um exemplo desta relação. Cria-se uma nova entidade para intermediar as outras duas entidades. No exemplo da imagem, cada C (assistida) é feita por um aluno e é direcionada a um curos, caímos no caso 1 para N.
 
