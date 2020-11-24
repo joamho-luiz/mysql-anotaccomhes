@@ -17,3 +17,5 @@ select carga count (nome) from curso						-- Agrupar.
     group by carga
     having cont (nome) > 3
 ;
+
+-- Mais desse comando em juntar.sql
