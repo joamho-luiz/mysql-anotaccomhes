@@ -15,3 +15,7 @@ update tabla						-- Alterar dados da tabela.
 	where id = '2'
 	(limit 1)
 ;
+
+-- Alter -- 
+-- Mais desse comando em excluir.sql
+-- Mais desse comando em adicionar.sql
