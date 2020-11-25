@@ -21,9 +21,9 @@
 
 * [INSERT](comandos/adicionar.sql "Clique para ver algumas utilizações desse \"comando\"")  
 
-* [DELETE](comandos/excluir.sql "Clique para ver algumas utilizações desse \"comando\"")  
-
 * [UPDATE](comandos/alterar.sql "Clique para ver algumas utilizações desse \"comando\"")
+
+* [DELETE](comandos/excluir.sql "Clique para ver algumas utilizações desse \"comando\"")  
 
 * [TRUNCATE](comandos/excluir.sql "Clique para ver algumas utilizações desse \"comando\"")
 
