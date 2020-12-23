@@ -3,7 +3,7 @@
 
 ### Banco de Dados
 
-<img src="imagens/estrutura-db.gif" width="320" height="320">  
+<img src="mais/imagens/estrutura-db.gif" width="320" height="320">  
 
 ### Divisão dos "comandos" por funcionalidade
 
@@ -35,7 +35,7 @@
 
 ### Tipos de dados
 
-<img src="imagens/tipos-primitivos.gif" width="425" height="225">  
+<img src="mais/imagens/tipos-primitivos.gif" width="425" height="225">  
 
 ### [Alguns Operadores](notas/operadores.md "Clique para ver algumas utilizações desse \"comando\"")  
 

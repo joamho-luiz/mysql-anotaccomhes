@@ -10,7 +10,7 @@
 
 `| entidade A | x ------- < relação > ------- z | entidade B |`  
 
-<img src="../imagens/der.gif" width="500" height="350">
+<img src="../mais/imagens/der.gif" width="500" height="350">
 
 _Imagem do canal [curso em video](https://www.youtube.com/watch?v=paZNDJAPT4E&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&index=16)._
 
@@ -51,7 +51,7 @@ _Exemplo de relação:_
 
 **Relação MUITOS para MUITOS**
 
-<img src="../imagens/relacionamento-n-para-n.gif" width="575" height="250">
+<img src="../mais/imagens/relacionamento-n-para-n.gif" width="575" height="250">
 
 Esta imagem do canal [curso em video](https://www.youtube.com/watch?v=paZNDJAPT4E&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&index=17) é um exemplo desta relação. Cria-se uma nova entidade para intermediar as outras duas entidades. No exemplo da imagem, cada C (assistida) é feita por um aluno e é direcionada a um curos, caímos no caso 1 para N.
 
